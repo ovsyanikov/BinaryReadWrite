@@ -1,0 +1,6 @@
+E:\VS Projects\PPV-30-01\C#\Урок 5\BinaryReadWrite\BinaryReadWrite\bin\Debug\BinaryReadWrite.exe.config
+E:\VS Projects\PPV-30-01\C#\Урок 5\BinaryReadWrite\BinaryReadWrite\bin\Debug\BinaryReadWrite.exe
+E:\VS Projects\PPV-30-01\C#\Урок 5\BinaryReadWrite\BinaryReadWrite\bin\Debug\BinaryReadWrite.pdb
+E:\VS Projects\PPV-30-01\C#\Урок 5\BinaryReadWrite\BinaryReadWrite\obj\Debug\BinaryReadWrite.exe
+E:\VS Projects\PPV-30-01\C#\Урок 5\BinaryReadWrite\BinaryReadWrite\obj\Debug\BinaryReadWrite.pdb
+E:\VS Projects\PPV-30-01\C#\Урок 5\BinaryReadWrite\BinaryReadWrite\obj\Debug\BinaryReadWrite.csprojResolveAssemblyReference.cache
