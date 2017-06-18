@@ -84,6 +84,8 @@ namespace BinaryReadWrite
 
             classic.WriteBinary(bw);
 
+            Console.WriteLine("Hello!");
+
             bookStream.Close();
             bw.Close();
 
