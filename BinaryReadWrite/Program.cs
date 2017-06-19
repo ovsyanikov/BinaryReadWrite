@@ -103,6 +103,8 @@ namespace BinaryReadWrite
             bookStream.Close();
             br.Close();
 
+            Console.WriteLine("Новые изменения!");
+
         }
 
     }
